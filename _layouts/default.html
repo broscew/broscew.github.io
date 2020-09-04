@@ -1,26 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Brosnan Chia</title>
+        <title>{{ page.title }}</title>
         <!-- link to main stylesheet -->
         <link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
-        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
         <nav>
             <ul>
-                <li><a href="../index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="resume.html">Resume</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="blog.html">Blog</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="nav/about.html">About</a></li>
+                <li><a href="nav/resume.html">Resume</a></li>
+                <li><a href="nav/projects.html">Projects</a></li>
+                <li><a href="nav/blog.html">Blog</a></li>
             </ul>
         </nav>
         <div class="container">
-            <div class="blurb">
-                <h1>Projects</h1> 
-                
-            </div><!-- /.blurb -->
+            {{ content }}
         </div><!-- /.container -->
         <footer>
             <ul>
