@@ -1,47 +1,22 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-    color: #ffce00;
-    background-color: #484d5c
-}
-nav ul, footer ul {
-    font-family:'Oswald', sans-serif;
-    padding: 0px;
-    list-style: none;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #ffce00;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-family:'Oswald', sans-serif;
-    color: #ffce00;
-    font-size: 3em;
-}
-p {
-    font-family:'Cardo', serif;
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #c0ccd4;
-}
-#content-wrap{
-    padding-bottom: 3.0rem;
-}
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 70%;
-    height: 3.0rem;
-    border-top: 1px solid #ffce00;
-    font-size: .8em;
-}
+body { margin: 60px auto; width: 70%; color: #ffce00; background-color: #484d5c}
+
+a{ text-decoration: nonecolor: #ffce00;}
+a:hover {text-decoration: underline;}
+
+p, ul {font-family:'Cardo', serif; font-size: 1.5em; line-height: 1.4em; color: #c0ccd4;}
+
+h1, h2, h3, h4 {font-family:'Oswald', sans-serif; color: #ffce00; }
+h1 {font-size: 3em;}
+h2 {font-size: 2.7em;}
+h3 {font-size: 2.5em;}
+h4 {font-size: 1.9em;}
+
+nav ul, footer ul {font-family:'Oswald', sans-serif; padding:0px; list-style:none; font-size: 1em;}
+nav ul li, footer ul li {display: inline; margin-right: 20px;}
+
+footer { position: absolute; bottom: 0; width: 70%; height: 3.0rem; border-top: 1px solid #ffce00; font-size: .8em;}
+
+#container{padding-bottom: 3.0rem;}
 
  
  
