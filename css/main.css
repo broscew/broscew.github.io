@@ -1,11 +1,11 @@
-body { margin: 60px auto; width: 70%; color: #ffce00; background-color: #‎#F0EAD6}
+body { margin: 60px auto; width: 70%; color: #ffce00; background-color: #F0EAD6}
 
-a{ text-decoration: none; color: #ffce00; font-size: 1em;}
+a{ text-decoration: none; color: #3d3d3d; font-size: 1em;}
 a:hover {text-decoration: underline;}
 
-p, ul {font-family:'Cardo', serif; font-size: 1.5em; line-height: 1.4em; color: #c0ccd4;}
+p, ul {font-family:'Cardo', serif; font-size: 1.5em; line-height: 1.4em; color: #5a5a5a ;}
 
-h1, h2, h3, h4 {font-family:'Oswald', sans-serif; text-transform: uppercase; color: #ffce00; }
+h1, h2, h3, h4 {font-family:'Oswald', sans-serif; text-transform: uppercase; color: #3d3d3d ; }
 h1 {font-size: 3em;}
 h2 {font-size: 2.7em;}
 h3 {font-size: 2.5em;}
@@ -14,8 +14,8 @@ h4 {font-size: 1.9em;}
 nav ul, footer ul {font-family:'Oswald', sans-serif; padding:0px; list-style:none; font-size: 1em; text-transform: uppercase;}
 nav ul li, footer ul li {display: inline; margin-right: 20px;}
 
-footer { position: absolute; bottom: 0; width: 70%; height: 3.0rem; border-top: 1px solid #ffce00; font-size: .8em;}
-nav {border-bottom: 1px solid #ffce00; }
+footer { position: absolute; bottom: 0; width: 70%; height: 3.0rem; border-top: 1px solid #3d3d3d ; font-size: .8em;}
+nav {border-bottom: 1px solid #3d3d3d ; }
 #container{padding-bottom: 3.0rem;}
 
 
