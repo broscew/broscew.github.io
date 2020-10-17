@@ -1,6 +1,6 @@
 # Dependencies
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Brosnan
 tagline:          'WIP'
-description:      'I am a final year student from Digipen Institute of Technology Singapore, currently pursuing a BSc in Computer Science in Real-Time Interactive Simulation'
+description:      'Hello there, I'm a programmer based in Singapore and welcome to my site!'
 url:              https://broscew.github.io/
 baseurl:          /
 
