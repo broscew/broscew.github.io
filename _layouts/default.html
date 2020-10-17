@@ -1,33 +1,15 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>{{ page.title }}</title>
-        <!-- link to main stylesheet -->
-        <link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/css/main.css">
-    </head>
-    <body>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/about">About</a></li>
-                <li><a href="/resume">Resume</a></li>
-                <li><a href="/projects">Projects</a></li>
-                <li><a href="/blog">Blog</a></li>
-            </ul>
-        </nav>
-        <div class="container">
-            {{ content }}
-        </div><!-- /.container -->
-        <footer>
-            <h5 class="copyright">
-                <span class = "social">
-                    <a href="https://github.com/broscew" i class="fa fa-github"></a>
-                    <a href="https://www.linkedin.com/in/brosnanchia/" class="fa fa-linkedin"></a>
-                </span>
-                &copy; Copyright 2020, Brosnan Chia. Powered by Jekyll and hosted on Github.
-            </h5>
-        </footer>
-    </body>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+  </body>
 </html>

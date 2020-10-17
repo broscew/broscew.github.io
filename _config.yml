@@ -1,2 +1,26 @@
-name: Brosnan Chia
-markdown: kramdown
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Brosnan
+tagline:          'WIP'
+description:      'I'm a final year student from Digipen Institute of Technology Singapore, currently pursuing a <b> BSc in Computer Science in Real-Time Interactive Simulation</b>.'
+url:              https://broscew.github.io/
+baseurl:          /
+
+author:
+  name:           'Brosnan'
+  url:            https://www.linkedin.com/in/brosnanchia/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/broscew
