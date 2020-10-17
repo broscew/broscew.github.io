@@ -101,6 +101,10 @@ a.sidebar-nav-item:focus {
   font-weight: none;
 }
 
+.sidebar-footer {
+  font-size: 1.0rem;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
