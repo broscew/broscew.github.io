@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Brosnan
 tagline:          'WIP'
-description:      'I'm a final year student from Digipen Institute of Technology Singapore, currently pursuing a <b> BSc in Computer Science in Real-Time Interactive Simulation</b>.'
+description:      'I am a final year student from Digipen Institute of Technology Singapore, currently pursuing a BSc in Computer Science in Real-Time Interactive Simulation'
 url:              https://broscew.github.io/
 baseurl:          /
 
@@ -24,3 +24,4 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/broscew
+
