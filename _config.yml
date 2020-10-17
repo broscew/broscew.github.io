@@ -6,14 +6,14 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Brosnan
+title:            Brosnan Chia
 tagline:          'WIP'
 description:      'Hello there, I am a programmer based in Singapore and welcome to my site!'
 url:              https://broscew.github.io/
 baseurl:          https://broscew.github.io/
 
 author:
-  name:           'Brosnan'
+  name:           'Brosnan Chia'
   url:            https://www.linkedin.com/in/brosnanchia/
 
 paginate:         5
