@@ -61,8 +61,8 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  background-color: #f9f6ef;
+  color:(38, 25, 17,.5);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
