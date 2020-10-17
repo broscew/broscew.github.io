@@ -14,8 +14,8 @@ Programming:
 
 ## Skillset
 Computer Science:
-*Image Processing
-*Machine learning
-*Software Development
+* Image Processing
+* Machine learning
+* Software Development
 
 Thanks for taking the time to read!
