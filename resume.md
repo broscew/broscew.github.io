@@ -46,14 +46,14 @@ time.
 </table>
 
 ## Projects
-###Projects – Kindred
-“Kindred” was a Junior Game Project developed with a custom C++ game engine and
+### Projects – Kindred
+**“Kindred”** was a Junior Game Project developed with a custom C++ game engine and
 scripted with C#. I was the Physic Lead for the project.
 * Developed a physics engine from scratch
 * Worked on some tool that are integrated to the systems that I was involved in.
 
-###Projects – Through the Shadows
-“Through the Shadows” was a Freshman Game Project developed using C++. During
+### Projects – Through the Shadows
+**“Through the Shadows”** was a Freshman Game Project developed using C++. During
 the project I oversaw Gameplay and Serialization
 * Worked on Character movement and the undo/redo system
 * Serialization
@@ -61,8 +61,8 @@ the project I oversaw Gameplay and Serialization
 ## Employment
 <dl>
   <dt>Internship</dt>
-  <dd>**Keio-Nus CUTE Center/ May 2014- Aug 2014**</dd>
-  <dd>Developed a game for an Art Science Museum showcase for Keio NUS CUTE Center. The game is created using Unity Engine and is controller developed by Keio – NUS CUTE Center that uses an accelerometer linked to an Arduino board.</dl>
+  <dd>Keio-Nus CUTE Center/ May 2014- Aug 2014</dd>
+  <dd>Developed a game for an Art Science Museum showcase for Keio NUS CUTE Center. The game is created using Unity Engine and is controller developed by Keio – NUS CUTE Center that uses an accelerometer linked to an Arduino board.</dd>
 </dl>
 
 ## Education
