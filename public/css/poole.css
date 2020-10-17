@@ -333,6 +333,8 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  background-color: #f9f6ef;
+  color:(38, 25, 17,.5);
 }
 
 /* Blog post or page title */
