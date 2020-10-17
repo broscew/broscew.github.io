@@ -60,18 +60,18 @@ the project I oversaw Gameplay and Serialization
 
 ## Employment
 <dl>
-  <dt>Internship</dt>
+  <dt>Internship:</dt>
   <dd>Keio-Nus CUTE Center/ May 2014- Aug 2014</dd>
   <dd>Developed a game for an Art Science Museum showcase for Keio NUS CUTE Center. The game is created using Unity Engine and is controller developed by Keio – NUS CUTE Center that uses an accelerometer linked to an Arduino board.</dd>
 </dl>
 
 ## Education
 <dl>
-  <dt>Bachelor of Science in Computer Science in Real-Time Interactive Simulation</dt>
-  <dd>Digipen Institute of Technology Singapore</dd>
-  <dd>2017-2021</dd>
+  <dt>Bachelor of Science in Computer Science in Real-Time Interactive Simulation:</dt>
+  <dd>* Digipen Institute of Technology Singapore</dd>
+  <dd>* 2017-2021</dd>
 
-  <dt>Diploma in Information Technology</dt>
-  <dd>Singapore Polytechnic</dd>
-  <dd>2012-2015</dd>
+  <dt>Diploma in Information Technology:</dt>
+  <dd>* Singapore Polytechnic</dd>
+  <dd>* 2012-2015</dd>
 </dl>
