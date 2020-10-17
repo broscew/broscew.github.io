@@ -66,12 +66,8 @@ the project I oversaw Gameplay and Serialization
 </dl>
 
 ## Education
-<dl>
-  <dt>Bachelor of Science in Computer Science in Real-Time Interactive Simulation:</dt>
-  <dd>* Digipen Institute of Technology Singapore</dd>
-  <dd>* 2017-2021</dd>
+### Bachelor of Science in Computer Science in Real-Time Interactive Simulation:
+**  Digipen Institute of Technology Singapore (2017-2021)**
 
-  <dt>Diploma in Information Technology:</dt>
-  <dd>* Singapore Polytechnic</dd>
-  <dd>* 2012-2015</dd>
-</dl>
+### Diploma in Information Technology:</dt>
+**  Singapore Polytechnic (2012-2015)**
