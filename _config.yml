@@ -10,7 +10,7 @@ title:            Brosnan
 tagline:          'WIP'
 description:      'Hello there, I am a programmer based in Singapore and welcome to my site!'
 url:              https://broscew.github.io/
-baseurl:          /
+baseurl:          https://broscew.github.io/
 
 author:
   name:           'Brosnan'
