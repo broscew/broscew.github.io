@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Through The Shadow
+layout: portfolio_page
+title: Kindred
 ---
 
 ## Background
