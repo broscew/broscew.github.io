@@ -106,7 +106,8 @@ a.sidebar-nav-item:focus {
   color: #262125;
 }
 .sidebar-nav-item.active {
-  font-weight: 400;
+  color: #262125;
+  background-color: #a47f48;
 }
 
 .sidebar-footer {
