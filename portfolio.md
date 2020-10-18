@@ -1,5 +1,5 @@
 ---
-layout: Portfolio
+layout: page_with_post
 title: Portfolio
 ---
 
