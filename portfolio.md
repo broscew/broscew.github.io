@@ -3,14 +3,14 @@ layout: page
 title: Portfolio
 ---
 
-Here is the list of projects that I have worked on.
+Here is the list of projects that I have worked on, you can click on the banners to see more.
 
 -----
 
-![placeholder]({{ site.baseurl }}images/Kindred_Banner.png "Kindred_Banner")
+<a href="https://broscew.github.io/about.md">![placeholder]({{ site.baseurl }}images/Kindred_Banner.png "Kindred")</a>
 
 -----
 
-![placeholder]({{ site.baseurl }}images/TTS_Banner.png "Through the Shadows")
+<a href="https://broscew.github.io/resume.md">![placeholder]({{ site.baseurl }}images/TTS_Banner.png "Through the Shadows")</a>
 
 -----
