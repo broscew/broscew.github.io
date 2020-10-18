@@ -96,7 +96,12 @@ html {
   display: block;
   line-height: 1.75;
 }
-a.sidebar-nav-item:hover,
+
+.sidebar-nav-item:hover
+{
+  color: #a47f4b;
+}
+
 a.sidebar-nav-item:focus {
   color: #a47f4b;
 }
