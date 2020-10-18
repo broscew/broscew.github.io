@@ -339,6 +339,10 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
   background-color: #f9f6ef;
   color: rgba(38, 25, 17,.5);
+  
+  -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
+  -moz-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 /* Blog post or page title */
@@ -407,6 +411,10 @@ tbody tr:nth-child(odd) th {
   display: block;
   padding: 1rem;
   border: 1px solid #eee;
+  -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
+  -moz-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
