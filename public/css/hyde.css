@@ -34,7 +34,7 @@
 html {
   font-family: 'Hind', sans-serif;
   background-color: #f9f6ef;
-  color:(38, 25, 17,.5);
+  color: rgba(38, 25, 17,.5);
 }
 @media (min-width: 48em) {
   html {
@@ -98,10 +98,10 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  color: a47f4b;
+  color: #a47f4b;
 }
 .sidebar-nav-item.active {
-  font-weight: none;
+  font-weight: 300;
 }
 
 .sidebar-footer {
