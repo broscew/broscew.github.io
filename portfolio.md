@@ -1,5 +1,6 @@
 ---
-layout: page_with_post
+layout: default
 title: Portfolio
 ---
+
 testing.
