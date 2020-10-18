@@ -93,6 +93,7 @@ html {
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
+  border-radius: 0px;
   display: block;
   line-height: 1.75;
 }

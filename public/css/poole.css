@@ -69,6 +69,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
+  border-radius: 5px;
   color: #a47f48;
   text-decoration: none;
 }
@@ -243,6 +244,7 @@ img {
 }
 
 iframe{
+  border-radius: 5px;
   -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
   -moz-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
@@ -265,7 +267,9 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-
+.fa:hover{
+  color = #262125
+}
 /*
  * Custom type
  *
