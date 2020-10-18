@@ -3,7 +3,7 @@ layout: portfolio_page
 title: Kindred
 ---
 
-<iframe width="2543" height="768" src="https://www.youtube.com/embed/oB_Zaoc2pgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/oB_Zaoc2pgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 
