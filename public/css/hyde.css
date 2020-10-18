@@ -56,9 +56,9 @@ html {
  */
 
 .sidebar {
-  -webkit-box-shadow: 10px 0px 40px 0px rgba(0,0,0,0.55);
-  -moz-box-shadow: 10px 0px 40px 0px rgba(0,0,0,0.55);
-  box-shadow: 10px 0px 40px 0px rgba(0,0,0,0.55);
+  -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
+  -moz-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   text-align: left;
   padding: 2rem 1rem;
   color: rgba(164, 127, 72,.8);
