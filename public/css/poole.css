@@ -79,9 +79,8 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: none;
-  background: #fff;
-  color: #a47f48;
-  background-color: #262125;
+  color: #262125;
+  background-color: #a47f48;
 }
 
 /* Headings */
