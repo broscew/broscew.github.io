@@ -34,7 +34,7 @@
 html {
   font-family: 'Hind', sans-serif;
   background-color: #f9f6ef;
-  color: rgba(38, 25, 17,.5);
+  color: rgba(38, 25, 17,.75);
 }
 @media (min-width: 48em) {
   html {
