@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Brosnan Chia
-tagline:          'WIP'
-description:      'Hello there, I am a programmer based in Singapore and welcome to my site! <a href="https://github.com/broscew" i class="fa fa-github"></a> <a href="https://www.linkedin.com/in/brosnanchia/" class="fa fa-linkedin"></a>'
+tagline:          ''
+description:      'Hello there, I am a programmer based in Singapore and welcome to my site! '
 url:              https://broscew.github.io/
 baseurl:          https://broscew.github.io/
 
