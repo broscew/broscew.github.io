@@ -288,9 +288,9 @@ tbody tr:nth-child(odd) th {
 }
 
 .fa:hover{
-  color : #d2c1b1;
+  color: #664a32;
+  background-color: #bfafa0;
   padding: 1px;
-  background-color: #a1695a;
   border-radius: 5px;
   
   -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
