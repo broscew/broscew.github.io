@@ -102,14 +102,14 @@ html {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus{
   color: #262125;
-  color: #a47f48;
+  background-color: #a47f48;
   
   -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
   -moz-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-.sidebar-nav-item.active {
+a.sidebar-nav-item.active {
   color: #262125;
   background-color: #a47f48;
   
