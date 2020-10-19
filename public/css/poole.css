@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   background-color: #e6e1de;
@@ -101,7 +101,7 @@ weblinks:focus{
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
@@ -288,8 +288,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .fa:hover{
-  color: #664a32;
-  background-color: #bfafa0;
+  color: #bfafa0;
+  background-color: #664a32;
   padding: 1px;
   border-radius: 5px;
   
@@ -436,7 +436,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
   color: #313131;
   text-align: center;
 }
