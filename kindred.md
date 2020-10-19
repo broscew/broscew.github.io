@@ -20,4 +20,4 @@ My main role was focused solely on developing a physics engine from scratch whil
 
 ----
 
-You can download the game <a href="https://games.digipen.edu/games/kindred"> **here!** </a>
+You can download the game <a class= "weblinks" href="https://games.digipen.edu/games/kindred"> **here!** </a>

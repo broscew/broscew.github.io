@@ -25,4 +25,4 @@ My last tasked for this project was to work on a simple serialization for the sa
 
 ----
 
-You can download the game <a href="https://games.digipen.edu/games/through-the-shadows"> **here!** </a>
+You can download the game <a class= "weblinks" href="https://games.digipen.edu/games/through-the-shadows"> **here!** </a>
