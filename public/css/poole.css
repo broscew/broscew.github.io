@@ -274,16 +274,17 @@ table {
   width: 100%;
   border: 1px solid #261911;
   border-collapse: collapse;
+  color: #261911;
 }
 td,
 th {
   padding: .25rem .5rem;
   border: 1px solid #261911;
-  background-color: #e5e5e5
+  background-color: #e5e5e5;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #505050;
+  background-color: #e3ddc0;
 }
 
 .fa{
