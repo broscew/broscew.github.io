@@ -30,16 +30,11 @@
  *
  * Update the foundational and global aspects of the page.
  */
-:root {
-  --background-color: #a02834;
-  --font-color: #006;
-  --sidebar-color: a02834;
-}
 
 html {
   font-family: 'Quattrocento', sans-serif;
-  background-color: var(--background-color);
-  color: var(--font-color);
+  background-color: #a02834;
+  color: #e3ddc0;
 }
 @media (min-width: 48em) {
   html {
