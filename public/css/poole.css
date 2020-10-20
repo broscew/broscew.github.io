@@ -87,7 +87,7 @@ a:focus {
 
 a.weblinks{
   border-radius: 5px;
-  color: #261911;
+  color: #e3ddc0;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ a.weblinks:hover,
 a.weblinks:focus{
   border-radius: 5px;
   color: #bfafa0;
-  background-color:#664a32;
+  background-color:#e3ddc0;
   padding: 1.5px;
   text-decoration: none;
 }
@@ -133,7 +133,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #e3ddc0;
 }
 
 
@@ -386,13 +386,14 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #e3ddc0;
   text-decoration: none;
 }
 
 .page-title,
 .post-title {
   margin-top: 0;
+  color: #e3ddc0;
 }
 
 /* Meta data line below post title */
@@ -441,7 +442,7 @@ tbody tr:nth-child(odd) th {
   margin-left: -1rem;
   margin-right: -1rem;
   font-family: 'Oswald', sans-serif;
-  color: #313131;
+  color: #e3ddc0;
   text-align: center;
 }
 
@@ -449,7 +450,7 @@ tbody tr:nth-child(odd) th {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #313131;
+  border: 1px solid #e3ddc0;
   
 }
 .pagination-item:first-child {
