@@ -34,6 +34,11 @@
  *
  * Update the foundational and global aspects of the page.
  */
+:root {
+  --background-color: #a02834;
+  --font-color: #e3ddc0;
+  --sidebar-color: a02834;
+}
 
 * {
   -webkit-box-sizing: border-box;
@@ -51,8 +56,8 @@ html {
   font-family: 'Quattrocento', sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #e6e1de;
-  color: rgba(38, 25, 17,.5);
+  background-color: var(--background-color);
+  color: var(--font-color);
 }
 @media (min-width: 38em) {
   html {
@@ -61,8 +66,8 @@ html {
 }
 
 body {
-  background-color: #e6e1de;
-  color: rgba(38, 25, 17,.5);
+  background-color: var(--background-color);
+  color: var(--font-color);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -107,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #664a32;
+  color: var(--font-color);
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -378,8 +383,8 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
-  background-color: #e6e1de;
-  color: rgba(38, 25, 17,.5);
+  background-color: var(--background-color);
+  color: var(--font-color);
 }
 
 /* Blog post or page title */
@@ -387,7 +392,9 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  text-decoration: none;
 }
+
 .page-title,
 .post-title {
   margin-top: 0;
