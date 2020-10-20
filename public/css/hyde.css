@@ -61,8 +61,8 @@ html {
   box-shadow: 0 14px 28px rgba(0,0,0,0.45), 0 10px 10px rgba(0,0,0,0.22);
   text-align: left;
   padding: 2rem 1rem;
-  color: rgba(38, 25, 17,.8);
-  background-color: #bfafa0;
+  color: #261911;
+  background-color: #e3ddc0;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -84,7 +84,7 @@ html {
 .sidebar-about h1 {
   color: #261911;
   margin-top: 0;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3.25rem;
 }
 
@@ -101,8 +101,8 @@ html {
 
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus{
-  color: #bfafa0;
-  background-color: #664a32;
+  color: #e3ddc0;
+  background-color: #a02834;
   
   -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
   -moz-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
@@ -110,8 +110,8 @@ a.sidebar-nav-item:focus{
 }
 
 a.sidebar-nav-item.active {
-  color: #bfafa0;
-  background-color: #664a32;
+  color: #e3ddc0;
+  background-color: #a02834;
   
   -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
   -moz-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
