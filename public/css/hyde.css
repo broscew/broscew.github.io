@@ -132,6 +132,7 @@ a.sidebar-nav-item.active {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
+    bottom: 1rem;
     right:  1rem;
     left:   1rem;
   }
