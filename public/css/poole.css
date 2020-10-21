@@ -288,7 +288,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .name-content{
-    font-size: 500px;
+    font-size: 400px;
+}
+
+.desc-content
+{
+    font-size: 200px;
 }
 
 
