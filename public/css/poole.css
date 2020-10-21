@@ -293,12 +293,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .name-content{
-    font-size: 30vw;
+    font-size: 25vw;
 }
 
 .desc-content
 {
-    font-size: 10vw;
+    font-size: 6vw;
 }
 
 
