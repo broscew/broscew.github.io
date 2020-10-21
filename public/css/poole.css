@@ -288,17 +288,17 @@ tbody tr:nth-child(odd) th {
 }
 
 .home-content {
-  padding-top: 400px;
+  margin-top: -100px;
   width: 200%;
 }
 
 .name-content{
-    font-size: 400px;
+    font-size: 250px;
 }
 
 .desc-content
 {
-    font-size: 200px;
+    font-size: 100px;
 }
 
 
