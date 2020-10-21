@@ -287,6 +287,11 @@ tbody tr:nth-child(odd) th {
   background-color: #e3ddc0;
 }
 
+.name-content{
+    font-size: 500px;
+}
+
+
 .fa{
   text-decoration: none;
 }
