@@ -97,7 +97,7 @@ html {
   display: block;
   line-height: 1.75;
   text-decoration: none;
-  font-size: 2vw
+  font-size: 1.8vw
 }
 
 a.sidebar-nav-item:hover,
@@ -133,7 +133,6 @@ a.sidebar-nav-item.active {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
     left:   1rem;
   }
 }
