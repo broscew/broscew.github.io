@@ -288,8 +288,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .home-content {
-  margin-top: -300px;
-  width: 200%;
+  margin-top: -250px;
+  width: 150%;
 }
 
 .name-content{
@@ -298,7 +298,7 @@ tbody tr:nth-child(odd) th {
 
 .desc-content
 {
-    font-size: 100px;
+    font-size: 80px;
 }
 
 
