@@ -49,14 +49,14 @@ body {
 
 html {
   font-family: 'Roboto', sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.5;
   background-color: #a02834;
   color: #e3ddc0;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 24px;
+    font-size: 26px;
   }
 }
 
@@ -103,7 +103,7 @@ a.weblinks:focus{
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
@@ -289,7 +289,6 @@ tbody tr:nth-child(odd) th {
 }
 
 .home-content {
-  margin-top: -30%;
   width: 150%;
 }
 

@@ -32,18 +32,18 @@
  */
 
 html {
-  font-family: 'Quattrocento', sans-serif;
+  font-family: 'Roboto', sans-serif;
   background-color: #a02834;
   color: #e3ddc0;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 20px;
+    font-size: 22px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 24px;
+    font-size: 26px;
   }
 }
 
@@ -97,7 +97,7 @@ html {
   display: block;
   line-height: 1.75;
   text-decoration: none;
-  font-size: 1.8vw
+  font-size: 2rem;
 }
 
 a.sidebar-nav-item:hover,
