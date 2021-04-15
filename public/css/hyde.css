@@ -77,12 +77,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #261911;
+  color: #e3ddc0;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #261911;
+  color: #e3ddc0;
   margin-top: 0;
   font-family: 'Roboto', sans-serif;
   font-size: 2.25rem;
