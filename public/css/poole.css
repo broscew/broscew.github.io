@@ -51,8 +51,8 @@ html {
   font-family: 'Roboto', sans-serif;
   font-size: 22px;
   line-height: 1.5;
-  background-color: #a02834;
-  color: #e3ddc0;
+  background-color: #ffffff;
+  color: #3f3f3f;
 }
 @media (min-width: 38em) {
   html {
@@ -61,8 +61,8 @@ html {
 }
 
 body {
-  background-color: #a02834;
-  color: #e3ddc0;
+  background-color: #ffffff;
+  color: #3f3f3f;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -87,7 +87,7 @@ a:focus {
 
 a.weblinks{
   border-radius: 5px;
-  color: #e3ddc0;
+  color: #3f3f3f;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ a.weblinks:hover,
 a.weblinks:focus{
   border-radius: 5px;
   color: #bfafa0;
-  background-color:#e3ddc0;
+  background-color:#3f3f3f;
   padding: 1.5px;
   text-decoration: none;
 }
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #e3ddc0;
+  color: #3f3f3f;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -294,13 +294,13 @@ tbody tr:nth-child(odd) th {
 }
 
 .name-content{
-    font-size: 9rem;
+    font-size: 6rem;
     margin-left: -0.6%;
 }
 
 .desc-content
 {
-    font-size: 2.5rem;
+    font-size: 1rem;
 }
 
 
