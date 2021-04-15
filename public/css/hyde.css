@@ -34,7 +34,7 @@
 html {
   font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
-  color: #261911;
+  color: #3f3f3f;
 }
 @media (min-width: 48em) {
   html {
@@ -62,7 +62,7 @@ html {
   text-align: left;
   padding: 2rem 1rem;
   color: #e3ddc0;
-  background-color: #261911;
+  background-color: #3f3f3f;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -102,7 +102,7 @@ html {
 
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus{
-  color: #261911;
+  color: #3f3f3f;
   background-color: #e3ddc0;
   
   -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
@@ -111,7 +111,7 @@ a.sidebar-nav-item:focus{
 }
 
 a.sidebar-nav-item.active {
-  color: #261911;
+  color: #3f3f3f;
   background-color: #e3ddc0;
   
   -webkit-box-shadow: 0 10px 20px 0px rgba(0,0,0,0.19), 0 6px 6px 0px rgba(0,0,0,0.23);
