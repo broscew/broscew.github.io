@@ -397,22 +397,22 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
-  background-color: #a02834;
-  color: #e3ddc0;
+  background-color: #ffffff;
+  color: #261911;
 }
 
 /* Blog post or page title */
 .page-title,
 .post-title,
 .post-title a {
-  color: #e3ddc0;
+  color: #261911;
   text-decoration: none;
 }
 
 .page-title,
 .post-title {
   margin-top: 0;
-  color: #e3ddc0;
+  color: #261911;
 }
 
 /* Meta data line below post title */
@@ -420,7 +420,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #e3ddc0;
+  color: #261911;
 }
 
 /* Related posts */
