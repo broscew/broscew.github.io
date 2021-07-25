@@ -61,6 +61,13 @@ the project I oversaw Gameplay and Serialization
 ## Employment
 <dl>
   <dt>Internship:</dt>
+  <dd>Continental Automotive Singapore Pte Ltd/ Sep 2020- Mar 2021</dd>
+  <dd>Developed a script to help detect errors in generated XML files which helped to speed up the development process by reducing the effort needed to validate the files manually while also identifying long-standing issues that were not discovered before.</dd>
+  <dd>Worked on automation scripts for testing use proprietary automated testing tool.</dd>
+
+</dl>
+<dl>
+  <dt>Internship:</dt>
   <dd>Keio-Nus CUTE Center/ May 2014- Aug 2014</dd>
   <dd>Developed a game for an Art Science Museum showcase for Keio NUS CUTE Center. The game is created using Unity Engine and is controller developed by Keio – NUS CUTE Center that uses an accelerometer linked to an Arduino board.</dd>
 </dl>
